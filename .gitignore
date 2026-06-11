@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Word temporary lock files
+~$*
+
+# Local render/output scratch
+rendered_assignment/
+
+# Project reference files that must stay local
+Ignore dont push github -relevant to PROJECT/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
